@@ -424,3 +424,6 @@ import './contrib/editTelemetry/browser/editTelemetry.contribution.js';
 
 
 //#endregion
+
+// 在其他 import 语句后添加
+import './contrib/cypressAssistant/browser/cypressAssistant.contribution.js';

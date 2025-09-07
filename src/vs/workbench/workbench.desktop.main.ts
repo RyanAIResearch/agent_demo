@@ -182,7 +182,10 @@ import './contrib/emergencyAlert/electron-browser/emergencyAlert.contribution.js
 // MCP
 import './contrib/mcp/electron-browser/mcp.contribution.js';
 
+
 //#endregion
+// Cypress Assistant
+import './contrib/cypressAssistant/browser/cypressAssistant.contribution.js';
 
 
 export { main } from './electron-browser/desktop.main.js';
